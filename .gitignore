@@ -1,0 +1,17 @@
+# Safety net: this repo is a showcase only. Never commit product source code or secrets.
+*.lua
+*.sql
+*.zip
+*.rar
+*.7z
+*.tar
+*.tar.gz
+*.js
+*.json
+*.yml
+*.yaml
+.env
+.env.*
+config*
+fxmanifest.lua
+node_modules/
