@@ -8,7 +8,7 @@
 
 ![Price](https://img.shields.io/badge/price-10%E2%82%AC-ED4245?style=for-the-badge) ![Works with](https://img.shields.io/badge/works%20with-vRP%20%7C%20ESX%20%7C%20QBCore%20%7C%20standalone-1f1f1f?style=for-the-badge) ![FiveM](https://img.shields.io/badge/FiveM-script-ED4245?style=for-the-badge)
 
-[**Get it on Discord**](https://discord.gg/czRymmEfuS) &nbsp;•&nbsp; [**All Pulse Store products**](https://github.com/amiculap/pulse-portfolio)
+[**Get it on Discord**](https://discord.gg/HmjEXhPF3Q) &nbsp;•&nbsp; [**All Pulse Store products**](https://github.com/amiculap/pulse-portfolio)
 
 </div>
 
@@ -83,7 +83,7 @@ PULSE-TUNING lets players tune absolutely everything on their vehicle: engine, b
 
 **Price: 10€**
 
-1. Join the [Pulse Store Discord](https://discord.gg/czRymmEfuS)
+1. Join the [Pulse Store Discord](https://discord.gg/HmjEXhPF3Q)
 2. Open a ticket in **#tickets**
 3. Tell us what you need and get the details
 
